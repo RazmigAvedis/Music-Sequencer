@@ -1,0 +1,144 @@
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.exe.config
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.exe
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.pdb
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csprojAssemblyReference.cache
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.Properties.Resources.resources
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.GenerateResource.cache
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.CoreCompileInputs.cache
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.exe
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.pdb
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.exe.config
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.exe
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.pdb
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csprojAssemblyReference.cache
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.Music_Sequencer.resources
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.Properties.Resources.resources
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.GenerateResource.cache
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.CoreCompileInputs.cache
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.exe
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.pdb
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.Win32.Registry.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Asio.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Core.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Midi.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Wasapi.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.WinForms.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.WinMM.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.AccessControl.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.Win32.Registry.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.AccessControl.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.CopyComplete
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.ChannelChoice.resources
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.exe.config
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.exe
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.pdb
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Asio.dll
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Core.dll
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.dll
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Midi.dll
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.WinForms.dll
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.WinMM.dll
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.xml
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csprojAssemblyReference.cache
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.ChannelChoice.resources
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.Music_Sequencer.resources
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.Properties.Resources.resources
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.GenerateResource.cache
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.CoreCompileInputs.cache
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.CopyComplete
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.exe
+C:\Users\Razmig Avedis\OneDrive\Design Patterns Project _ PC\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.pdb
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csprojAssemblyReference.cache
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.ChannelChoice.resources
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.Music_Sequencer.resources
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.Properties.Resources.resources
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.GenerateResource.cache
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.CoreCompileInputs.cache
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.exe
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.pdb
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.exe.config
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.exe
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.pdb
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.Win32.Registry.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Asio.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Core.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Midi.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Wasapi.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.WinForms.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.WinMM.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.AccessControl.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.Win32.Registry.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.AccessControl.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.CopyComplete
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project _ PC - Copy (2) - Copy\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.ChooseAutomationLink.resources
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.exe.config
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.exe
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Design Patterns Project.pdb
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.Win32.Registry.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Asio.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Core.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Midi.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Wasapi.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.WinForms.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.WinMM.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.AccessControl.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.Principal.Windows.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.Win32.Registry.xml
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.xml
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.AccessControl.xml
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.Principal.Windows.xml
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csprojAssemblyReference.cache
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.ChannelChoice.resources
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.ChooseAutomationLink.resources
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.Music_Sequencer.resources
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.Properties.Resources.resources
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.GenerateResource.cache
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.CoreCompileInputs.cache
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.CopyComplete
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.exe
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.pdb
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.ChannelChoice.resources
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.ChooseAutomationLink.resources
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design_Patterns_Project.Music_Sequencer.resources
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.Win32.Registry.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Asio.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Core.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Midi.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.Wasapi.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.WinForms.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.WinMM.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.AccessControl.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.Principal.Windows.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.Win32.Registry.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\NAudio.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.AccessControl.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\System.Security.Principal.Windows.xml
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.CopyComplete
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\My Files\Razmig\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+D:\my files\University Documents\Semester VII\Design Pattern\Design Patterns Project\Design Patterns Project\obj\Debug\Design Patterns Project.csproj.AssemblyReference.cache
